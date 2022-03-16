@@ -306,10 +306,7 @@ footer {
 
 
 @media only screen and (max-width: 600px) {
-    #premium-courses {
-        display: none;
-    }
-
+    
     #top-navigation-nav {
         display: none;
     }
